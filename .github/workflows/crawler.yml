@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-18.04
 
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
       with:
         ref: master
     - uses: actions/setup-node@master
@@ -26,7 +26,6 @@ jobs:
       run: |
         git config user.email "github-bot@brigade.cloud"
         git config user.name "Brigade Bot"
-        git remote set-url origin https://brigade-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/codeforamerica/brigade-project-index.git
         git fetch origin refs/heads/index/v1:refs/heads/index/v1 refs/heads/cfapi/orgs/v1:refs/heads/cfapi/orgs/v1
     - run: |
         node crawler/run.js \

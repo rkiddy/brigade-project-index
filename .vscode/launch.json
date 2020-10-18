@@ -51,7 +51,7 @@
             },
             "args": [
                 "--orgs",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
                 "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json"
             ],
@@ -72,7 +72,7 @@
             },
             "args": [
                 "--projects",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1"
             ],
             "skipFiles": [
@@ -92,9 +92,10 @@
             },
             "args": [
                 "--all",
-                "--commit-to=index/v1",
+                "--commit-to=snapshot/v1",
                 "--commit-orgs-to=cfapi/orgs/v1",
-                "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/ffe6fcecea0d84f8317d5fc1a4c57cb136d580d3/test-organizations.json"
+                "--orgs-source=https://gist.githubusercontent.com/themightychris/192929e226f7077d0b08013fcda81952/raw/15fbe8d809d319f0275aa7ff8115a37744cd95b7/test-organizations.json",
+                "--scratch-git-dir=/tmp/bpi-scratch.git"
             ],
             "skipFiles": [
                 "<node_internals>/**"
