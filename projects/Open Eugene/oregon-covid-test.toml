@@ -1,8 +1,53 @@
 code_url = "https://github.com/OpenEugene/oregon-covid-test"
 description = "simple map of covid test sites in oregon that rolls up to https://findcovidtesting.com/"
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/oregon-covid-test.git"
-last_pushed_within = "year"
 link_url = "http://findoregontesting.com"
 name = "oregon-covid-test"
+organization_name = "Open Eugene"
 topics = [ "covid-19" ]
+
+[github]
+archived = false
+created_at = "2020-03-22T16:47:22Z"
+default_branch = "master"
+description = "simple map of covid test sites in oregon that rolls up to https://findcovidtesting.com/"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "OpenEugene/oregon-covid-test"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://findoregontesting.com"
+id = 249_228_079
+language = "HTML"
+name = "oregon-covid-test"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDkyMjgwNzk="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ "covid-19" ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

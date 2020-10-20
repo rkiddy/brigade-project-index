@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenEugene/art-yard-map"
 description = "mapping art yard for a safe Halloween 2020"
-git_branch = "main"
 git_url = "git://github.com/OpenEugene/art-yard-map.git"
-last_pushed_within = "month"
 name = "art-yard-map"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2020-10-10T20:11:18Z"
+default_branch = "main"
+description = "mapping art yard for a safe Halloween 2020"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/art-yard-map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 302_981_821
+language = { }
+name = "art-yard-map"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDI5ODE4MjE="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

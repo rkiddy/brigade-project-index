@@ -1,6 +1,51 @@
 code_url = "https://github.com/OpenEugene/i-stand-for-this"
 description = "#Istandforthis is a movement aimed at empowering new voters to exercise their right and privilege in voicing their values through the democratic voting process."
-git_branch = "master"
 git_url = "git://github.com/OpenEugene/i-stand-for-this.git"
-last_pushed_within = "year"
 name = "i-stand-for-this"
+organization_name = "Open Eugene"
+
+[github]
+archived = false
+created_at = "2020-03-12T22:43:07Z"
+default_branch = "master"
+description = "#Istandforthis is a movement aimed at empowering new voters to exercise their right and privilege in voicing their values through the democratic voting process."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "OpenEugene/i-stand-for-this"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 246_943_500
+language = { }
+name = "i-stand-for-this"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDY5NDM1MDA="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 37_278_948
+  login = "OpenEugene"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM3Mjc4OTQ4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
