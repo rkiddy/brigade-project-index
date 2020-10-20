@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforjapan/StudyAtHome-LP"
-git_branch = "development"
 git_url = "git://github.com/codeforjapan/StudyAtHome-LP.git"
-last_pushed_within = "week"
 name = "StudyAtHome-LP"
+organization_name = "Code for Japan"
+
+[github]
+archived = false
+created_at = "2020-05-17T17:54:46Z"
+default_branch = "development"
+description = { }
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforjapan/StudyAtHome-LP"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 264_725_116
+language = "Vue"
+name = "StudyAtHome-LP"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQ3MjUxMTY="
+open_issues_within = 100
+private = false
+pushed_within = "week"
+stargazers_within = 10
+topics = [ ]
+updated_within = "week"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_137_738
+  login = "codeforjapan"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjUxMzc3Mzg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
