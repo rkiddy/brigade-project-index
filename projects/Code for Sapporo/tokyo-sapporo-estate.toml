@@ -1,5 +1,45 @@
 code_url = "https://github.com/codeforsapporo/tokyo-sapporo-estate"
-git_branch = "master"
 git_url = "git://github.com/codeforsapporo/tokyo-sapporo-estate.git"
-last_pushed_within = "over_a_year"
 name = "tokyo-sapporo-estate"
+organization_name = "Code for Sapporo"
+
+[github]
+archived = false
+created_at = "2017-10-29T01:43:52Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsapporo/tokyo-sapporo-estate"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 108_697_056
+language = "JavaScript"
+license = { }
+name = "tokyo-sapporo-estate"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDg2OTcwNTY="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_637_003
+  login = "codeforsapporo"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2MzcwMDM="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
