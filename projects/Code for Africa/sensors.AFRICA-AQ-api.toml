@@ -1,10 +1,9 @@
 code_url = "https://github.com/CodeForAfrica/sensors.AFRICA-AQ-api"
 description = "The sensors.AFRICA air quality API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.aq.sensors.africa/"
-git_branch = "master"
 git_url = "git://github.com/CodeForAfrica/sensors.AFRICA-AQ-api.git"
-last_pushed_within = "over_a_year"
 link_url = "https://api.aq.sensors.africa/"
 name = "sensors.AFRICA-AQ-api"
+organization_name = "Code for Africa"
 topics = [
   "africa",
   "air-quality",
@@ -17,3 +16,60 @@ topics = [
   "sensors",
   "sensors-africa"
 ]
+
+[github]
+archived = false
+created_at = "2017-05-29T13:46:54Z"
+default_branch = "master"
+description = "The sensors.AFRICA air quality API receiving, storing, and processing data received from sensors across the continentent. Accessible at https://api.aq.sensors.africa/"
+disabled = false
+fork = true
+forks_within = 10
+full_name = "CodeForAfrica/sensors.AFRICA-AQ-api"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = "https://api.aq.sensors.africa/"
+id = 92_744_111
+language = "Python"
+name = "sensors.AFRICA-AQ-api"
+node_id = "MDEwOlJlcG9zaXRvcnk5Mjc0NDExMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "africa",
+  "air-quality",
+  "air-quality-data",
+  "api",
+  "api-rest",
+  "api-service",
+  "data-journalism",
+  "open-data",
+  "sensors",
+  "sensors-africa"
+]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 2_786_364
+  login = "CodeForAfrica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjI3ODYzNjQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
