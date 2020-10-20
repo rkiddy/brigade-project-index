@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/covid-alert-app"
 description = "Exposure notification client application / Application client de notification d'exposition"
-git_branch = "master"
 git_url = "git://github.com/18F/covid-alert-app.git"
-last_pushed_within = "year"
 name = "covid-alert-app"
+organization_name = "18F"
 topics = [ "prototype" ]
+
+[github]
+archived = false
+created_at = "2020-07-31T21:30:32Z"
+default_branch = "master"
+description = "Exposure notification client application / Application client de notification d'exposition"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "18F/covid-alert-app"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = ""
+id = 284_133_087
+language = { }
+name = "covid-alert-app"
+node_id = "MDEwOlJlcG9zaXRvcnkyODQxMzMwODc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "prototype" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

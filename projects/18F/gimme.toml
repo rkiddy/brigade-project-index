@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/gimme"
 description = "A mobile shopping cart app for federal supply items"
-git_branch = "master"
 git_url = "git://github.com/18F/gimme.git"
-last_pushed_within = "month"
 name = "gimme"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2019-11-18T15:16:02Z"
+default_branch = "master"
+description = "A mobile shopping cart app for federal supply items"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/gimme"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 222_478_761
+language = "Dart"
+license = { }
+name = "gimme"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjI0Nzg3NjE="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

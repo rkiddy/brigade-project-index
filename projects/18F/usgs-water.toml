@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/usgs-water"
 description = "USGS Water Mission Area platform modernization Path Analysis"
-git_branch = "master"
 git_url = "git://github.com/18F/usgs-water.git"
-last_pushed_within = "year"
 name = "usgs-water"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-04-07T13:20:20Z"
+default_branch = "master"
+description = "USGS Water Mission Area platform modernization Path Analysis"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/usgs-water"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 253_799_012
+language = { }
+license = { }
+name = "usgs-water"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTM3OTkwMTI="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/vulsrepo"
 description = "The 10x Dependency Upgrades fork of the vuls.io official web interface frontend. More background in the main repository. See link below. "
-git_branch = "master"
 git_url = "git://github.com/18F/vulsrepo.git"
-last_pushed_within = "year"
 link_url = "https://github.com/18F/10x-dux-vuls-eval"
 name = "vulsrepo"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-09-24T14:31:47Z"
+default_branch = "master"
+description = "The 10x Dependency Upgrades fork of the vuls.io official web interface frontend. More background in the main repository. See link below. "
+disabled = false
+fork = true
+forks_within = 0
+full_name = "18F/vulsrepo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = false
+homepage = "https://github.com/18F/10x-dux-vuls-eval"
+id = 298_304_739
+language = { }
+name = "vulsrepo"
+node_id = "MDEwOlJlcG9zaXRvcnkyOTgzMDQ3Mzk="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

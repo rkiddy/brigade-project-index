@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/identity-pretendapp"
 description = "This is a pretend app that we can use to demo CI/CD."
-git_branch = "master"
 git_url = "git://github.com/18F/identity-pretendapp.git"
-last_pushed_within = "year"
 name = "identity-pretendapp"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-05-15T22:25:40Z"
+default_branch = "master"
+description = "This is a pretend app that we can use to demo CI/CD."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/identity-pretendapp"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 264_311_485
+language = "HTML"
+name = "identity-pretendapp"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjQzMTE0ODU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

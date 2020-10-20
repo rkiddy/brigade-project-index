@@ -1,7 +1,52 @@
 code_url = "https://github.com/18F/connect.gov"
 description = "Static site to disambiguate login.gov and ConneCT.ct.gov"
-git_branch = "master"
 git_url = "git://github.com/18F/connect.gov.git"
-last_pushed_within = "month"
 name = "connect.gov"
+organization_name = "18F"
 topics = [ "login-gov" ]
+
+[github]
+archived = false
+created_at = "2017-09-01T19:48:03Z"
+default_branch = "master"
+description = "Static site to disambiguate login.gov and ConneCT.ct.gov"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/connect.gov"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 102_147_824
+language = "HTML"
+name = "connect.gov"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDIxNDc4MjQ="
+open_issues_within = 0
+private = false
+pushed_within = "month"
+stargazers_within = 0
+topics = [ "login-gov" ]
+updated_within = "month"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/18F/site-scanning-mashup-templates"
 description = "A set of report pages or other mashups that can be cloned by other agencies "
-git_branch = "main"
 git_url = "git://github.com/18F/site-scanning-mashup-templates.git"
-last_pushed_within = "year"
 name = "site-scanning-mashup-templates"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-07-08T16:08:47Z"
+default_branch = "main"
+description = "A set of report pages or other mashups that can be cloned by other agencies "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "18F/site-scanning-mashup-templates"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = false
+has_wiki = false
+homepage = { }
+id = 278_135_942
+language = { }
+license = { }
+name = "site-scanning-mashup-templates"
+node_id = "MDEwOlJlcG9zaXRvcnkyNzgxMzU5NDI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/identity-secops"
 description = "Security Operations repo for login.gov"
-git_branch = "master"
 git_url = "git://github.com/18F/identity-secops.git"
-last_pushed_within = "year"
 name = "identity-secops"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2020-04-14T17:48:02Z"
+default_branch = "master"
+description = "Security Operations repo for login.gov"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/identity-secops"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 255_682_547
+language = "HCL"
+name = "identity-secops"
+node_id = "MDEwOlJlcG9zaXRvcnkyNTU2ODI1NDc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "apache-2.0"
+  name = "Apache License 2.0"
+  node_id = "MDc6TGljZW5zZTI="
+  spdx_id = "Apache-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

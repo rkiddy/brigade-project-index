@@ -1,6 +1,51 @@
 code_url = "https://github.com/18F/federal-grant-reporting"
 description = "Improving the experience of federal grant reporting."
-git_branch = "master"
 git_url = "git://github.com/18F/federal-grant-reporting.git"
-last_pushed_within = "year"
 name = "federal-grant-reporting"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2017-12-12T18:26:35Z"
+default_branch = "master"
+description = "Improving the experience of federal grant reporting."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/federal-grant-reporting"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 114_024_957
+language = "CSS"
+name = "federal-grant-reporting"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTQwMjQ5NTc="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

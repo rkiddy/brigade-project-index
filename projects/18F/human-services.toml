@@ -1,7 +1,47 @@
 code_url = "https://github.com/18F/human-services"
 description = "An index of 18F and TTS work in the human services space"
-git_branch = "main"
 git_url = "git://github.com/18F/human-services.git"
-last_pushed_within = "year"
 link_url = "https://portfolios.18f.gov/human-services/"
 name = "human-services"
+organization_name = "18F"
+
+[github]
+archived = false
+created_at = "2018-07-03T19:01:46Z"
+default_branch = "main"
+description = "An index of 18F and TTS work in the human services space"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "18F/human-services"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://portfolios.18f.gov/human-services/"
+id = 139_626_565
+language = "HTML"
+license = { }
+name = "human-services"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzk2MjY1NjU="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_233_994
+  login = "18F"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYyMzM5OTQ="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
