@@ -1,8 +1,53 @@
 code_url = "https://github.com/code-for-nashville/nashville-zone-lookup"
 description = "Answering your Nashville acceptable land use questions"
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/nashville-zone-lookup.git"
-last_pushed_within = "year"
 link_url = "https://nashville-zone-lookup.herokuapp.com/"
 name = "nashville-zone-lookup"
+organization_name = "Code for Nashville"
 topics = [ "civic-tech", "phoenix", "vue", "zoning" ]
+
+[github]
+archived = false
+created_at = "2016-06-20T17:53:35Z"
+default_branch = "master"
+description = "Answering your Nashville acceptable land use questions"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "code-for-nashville/nashville-zone-lookup"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://nashville-zone-lookup.herokuapp.com/"
+id = 61_568_505
+language = "Elixir"
+name = "nashville-zone-lookup"
+node_id = "MDEwOlJlcG9zaXRvcnk2MTU2ODUwNQ=="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 100
+topics = [ "civic-tech", "phoenix", "vue", "zoning" ]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

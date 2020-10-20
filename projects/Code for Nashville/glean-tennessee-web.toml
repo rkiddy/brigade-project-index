@@ -1,7 +1,47 @@
 code_url = "https://github.com/code-for-nashville/glean-tennessee-web"
 description = "This project was created during Nashville's Civic Day of Hacking to allow farmers and other food providers to notify the Society of St. Andrew of food donations available for harvest and pick up."
-git_branch = "master"
 git_url = "git://github.com/code-for-nashville/glean-tennessee-web.git"
-last_pushed_within = "year"
 link_url = "https://glean-tennessee.firebaseapp.com/"
 name = "glean-tennessee-web"
+organization_name = "Code for Nashville"
+
+[github]
+archived = false
+created_at = "2018-03-07T00:54:17Z"
+default_branch = "master"
+description = "This project was created during Nashville's Civic Day of Hacking to allow farmers and other food providers to notify the Society of St. Andrew of food donations available for harvest and pick up."
+disabled = false
+fork = false
+forks_within = 100
+full_name = "code-for-nashville/glean-tennessee-web"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://glean-tennessee.firebaseapp.com/"
+id = 124_157_844
+language = "JavaScript"
+license = { }
+name = "glean-tennessee-web"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQxNTc4NDQ="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 8_493_450
+  login = "code-for-nashville"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjg0OTM0NTA="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
