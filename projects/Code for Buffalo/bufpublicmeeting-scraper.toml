@@ -1,5 +1,45 @@
 code_url = "https://github.com/CodeForBuffalo/bufpublicmeeting-scraper"
-git_branch = "master"
 git_url = "git://github.com/CodeForBuffalo/bufpublicmeeting-scraper.git"
-last_pushed_within = "year"
 name = "bufpublicmeeting-scraper"
+organization_name = "Code for Buffalo"
+
+[github]
+archived = false
+created_at = "2019-10-12T18:08:33Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "CodeForBuffalo/bufpublicmeeting-scraper"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 214_692_981
+language = "Vue"
+license = { }
+name = "bufpublicmeeting-scraper"
+node_id = "MDEwOlJlcG9zaXRvcnkyMTQ2OTI5ODE="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 36_050_070
+  login = "CodeForBuffalo"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjM2MDUwMDcw"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
