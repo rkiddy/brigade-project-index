@@ -1,7 +1,47 @@
 code_url = "https://github.com/code4romania/botkit-starter-facebook"
 description = "A customizable starting point for building Facebook bots"
-git_branch = "master"
 git_url = "git://github.com/code4romania/botkit-starter-facebook.git"
-last_pushed_within = "over_a_year"
 link_url = "http://botkit.ai"
 name = "botkit-starter-facebook"
+organization_name = "Code for Romania"
+
+[github]
+archived = false
+created_at = "2017-05-18T18:10:00Z"
+default_branch = "master"
+description = "A customizable starting point for building Facebook bots"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "code4romania/botkit-starter-facebook"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "http://botkit.ai"
+id = 91_723_975
+language = "JavaScript"
+license = { }
+name = "botkit-starter-facebook"
+node_id = "MDEwOlJlcG9zaXRvcnk5MTcyMzk3NQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

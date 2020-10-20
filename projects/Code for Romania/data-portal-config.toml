@@ -1,6 +1,46 @@
 code_url = "https://github.com/code4romania/data-portal-config"
 description = "Configuration repo for Dataportal CKAN instance "
-git_branch = "master"
 git_url = "git://github.com/code4romania/data-portal-config.git"
-last_pushed_within = "year"
 name = "data-portal-config"
+organization_name = "Code for Romania"
+
+[github]
+archived = false
+created_at = "2019-03-06T10:52:55Z"
+default_branch = "master"
+description = "Configuration repo for Dataportal CKAN instance "
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/data-portal-config"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 174_127_260
+language = "Shell"
+license = { }
+name = "data-portal-config"
+node_id = "MDEwOlJlcG9zaXRvcnkxNzQxMjcyNjA="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
