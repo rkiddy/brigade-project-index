@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefornola/norta-data"
 description = "Code and Documentation for New Orleans RTA data"
-git_branch = "master"
 git_url = "git://github.com/codefornola/norta-data.git"
-last_pushed_within = "over_a_year"
 name = "norta-data"
+organization_name = "Code for New Orleans"
+
+[github]
+archived = false
+created_at = "2016-07-15T01:35:28Z"
+default_branch = "master"
+description = "Code and Documentation for New Orleans RTA data"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codefornola/norta-data"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 63_381_791
+language = "Elixir"
+name = "norta-data"
+node_id = "MDEwOlJlcG9zaXRvcnk2MzM4MTc5MQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 13_694_692
+  login = "codefornola"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjEzNjk0Njky"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
