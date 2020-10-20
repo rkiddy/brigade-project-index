@@ -1,7 +1,47 @@
 code_url = "https://github.com/codeforkanazawa-org/5374site"
 description = "5374オフィシャルサイト"
-git_branch = "master"
 git_url = "git://github.com/codeforkanazawa-org/5374site.git"
-last_pushed_within = "year"
 link_url = "http://codeforkanazawa-org.github.io/5374site/"
 name = "5374site"
+organization_name = "Code for Kanazawa"
+
+[github]
+archived = false
+created_at = "2015-02-02T11:56:50Z"
+default_branch = "master"
+description = "5374オフィシャルサイト"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforkanazawa-org/5374site"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforkanazawa-org.github.io/5374site/"
+id = 30_185_031
+language = "Ruby"
+license = { }
+name = "5374site"
+node_id = "MDEwOlJlcG9zaXRvcnkzMDE4NTAzMQ=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 5_687_728
+  login = "codeforkanazawa-org"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjU2ODc3Mjg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
