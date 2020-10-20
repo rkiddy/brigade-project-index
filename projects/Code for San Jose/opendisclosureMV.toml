@@ -1,12 +1,62 @@
 code_url = "https://github.com/codeforsanjose/opendisclosureMV"
 description = "Open Disclosure for Mountain View | Help voters learn about local candidate and measures' campaign contributions"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/opendisclosureMV.git"
-last_pushed_within = "over_a_year"
 name = "opendisclosureMV"
+organization_name = "Code for San Jose"
 topics = [
   "campaign",
   "campaign-finance",
   "elections",
   "open-disclosure"
 ]
+
+[github]
+archived = false
+created_at = "2018-10-03T06:16:14Z"
+default_branch = "master"
+description = "Open Disclosure for Mountain View | Help voters learn about local candidate and measures' campaign contributions"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/opendisclosureMV"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 151_368_987
+language = "HTML"
+name = "opendisclosureMV"
+node_id = "MDEwOlJlcG9zaXRvcnkxNTEzNjg5ODc="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "campaign",
+  "campaign-finance",
+  "elections",
+  "open-disclosure"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "gpl-3.0"
+  name = "GNU General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTk="
+  spdx_id = "GPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

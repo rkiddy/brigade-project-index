@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforsanjose/GiveFood"
 description = "A simple site that maps South Bay locations where you can donate food during the 2014 holiday season."
-git_branch = "gh-pages"
 git_url = "git://github.com/codeforsanjose/GiveFood.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforsanjose.github.io/GiveFood/"
 name = "GiveFood"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2014-11-20T19:29:23Z"
+default_branch = "gh-pages"
+description = "A simple site that maps South Bay locations where you can donate food during the 2014 holiday season."
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforsanjose/GiveFood"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforsanjose.github.io/GiveFood/"
+id = 26_928_210
+language = "JavaScript"
+name = "GiveFood"
+node_id = "MDEwOlJlcG9zaXRvcnkyNjkyODIxMA=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/SCC-Probation"
 description = "Santa Clara County probation department project"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/SCC-Probation.git"
-last_pushed_within = "year"
 name = "SCC-Probation"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2019-08-22T05:26:19Z"
+default_branch = "master"
+description = "Santa Clara County probation department project"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/SCC-Probation"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 203_720_300
+language = "HTML"
+name = "SCC-Probation"
+node_id = "MDEwOlJlcG9zaXRvcnkyMDM3MjAzMDA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "agpl-3.0"
+  name = "GNU Affero General Public License v3.0"
+  node_id = "MDc6TGljZW5zZTE="
+  spdx_id = "AGPL-3.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

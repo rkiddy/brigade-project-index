@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforsanjose/CFSJ-SecurityStack"
 description = "Primarily Blue Team related activities"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/CFSJ-SecurityStack.git"
-last_pushed_within = "year"
 name = "CFSJ-SecurityStack"
+organization_name = "Code for San Jose"
 topics = [
   "firewall-rules",
   "letsencrypt",
@@ -11,3 +10,50 @@ topics = [
   "security",
   "splunk"
 ]
+
+[github]
+archived = false
+created_at = "2019-11-08T03:03:38Z"
+default_branch = "master"
+description = "Primarily Blue Team related activities"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/CFSJ-SecurityStack"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 220_375_572
+language = { }
+license = { }
+name = "CFSJ-SecurityStack"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjAzNzU1NzI="
+open_issues_within = 0
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [
+  "firewall-rules",
+  "letsencrypt",
+  "nginx",
+  "security",
+  "splunk"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

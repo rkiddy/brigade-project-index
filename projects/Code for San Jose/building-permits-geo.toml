@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/building-permits-geo"
 description = "Geographical visualization of San Jose building permits"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/building-permits-geo.git"
-last_pushed_within = "over_a_year"
 name = "building-permits-geo"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2016-02-18T22:30:51Z"
+default_branch = "master"
+description = "Geographical visualization of San Jose building permits"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/building-permits-geo"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 52_043_612
+language = "Python"
+name = "building-permits-geo"
+node_id = "MDEwOlJlcG9zaXRvcnk1MjA0MzYxMg=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

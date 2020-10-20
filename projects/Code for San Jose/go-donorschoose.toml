@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforsanjose/go-donorschoose"
 description = "An API wrapper for donorschoose.org"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/go-donorschoose.git"
-last_pushed_within = "over_a_year"
 name = "go-donorschoose"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2017-05-02T09:04:27Z"
+default_branch = "master"
+description = "An API wrapper for donorschoose.org"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/go-donorschoose"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 90_012_879
+language = "Go"
+license = { }
+name = "go-donorschoose"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDAxMjg3OQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

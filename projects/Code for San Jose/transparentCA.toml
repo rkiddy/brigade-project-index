@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/transparentCA"
 description = "Analyze compensation of public workers within the state (county/city/state/school districts/etc)."
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/transparentCA.git"
-last_pushed_within = "over_a_year"
 name = "transparentCA"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2015-11-16T05:08:37Z"
+default_branch = "master"
+description = "Analyze compensation of public workers within the state (county/city/state/school districts/etc)."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/transparentCA"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_253_333
+language = "Python"
+name = "transparentCA"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjI1MzMzMw=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

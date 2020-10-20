@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforsanjose/BLiC-Java"
 description = "Broken Link Checker written in Java"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/BLiC-Java.git"
-last_pushed_within = "over_a_year"
 name = "BLiC-Java"
+organization_name = "Code for San Jose"
 topics = [ "java", "utilities" ]
+
+[github]
+archived = false
+created_at = "2016-06-11T02:41:59Z"
+default_branch = "master"
+description = "Broken Link Checker written in Java"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/BLiC-Java"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 60_887_760
+language = "Java"
+name = "BLiC-Java"
+node_id = "MDEwOlJlcG9zaXRvcnk2MDg4Nzc2MA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "java", "utilities" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

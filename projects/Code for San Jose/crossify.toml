@@ -1,5 +1,50 @@
 code_url = "https://github.com/codeforsanjose/crossify"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/crossify.git"
-last_pushed_within = "over_a_year"
 name = "crossify"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2017-11-10T02:58:11Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforsanjose/crossify"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 110_195_171
+language = "Python"
+name = "crossify"
+node_id = "MDEwOlJlcG9zaXRvcnkxMTAxOTUxNzE="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

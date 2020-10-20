@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/HackNightProjects"
 description = "Want to contribute your first day? This is the place!!"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/HackNightProjects.git"
-last_pushed_within = "over_a_year"
 name = "HackNightProjects"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2015-06-04T05:50:20Z"
+default_branch = "master"
+description = "Want to contribute your first day? This is the place!!"
+disabled = false
+fork = false
+forks_within = 100
+full_name = "codeforsanjose/HackNightProjects"
+has_downloads = true
+has_issues = false
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = { }
+id = 36_850_813
+language = "HTML"
+name = "HackNightProjects"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjg1MDgxMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

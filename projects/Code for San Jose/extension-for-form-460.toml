@@ -1,9 +1,8 @@
 code_url = "https://github.com/codeforsanjose/extension-for-form-460"
 description = "A Chrome extension that you can use to download Form 460 from the City of San Jose's website"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/extension-for-form-460.git"
-last_pushed_within = "over_a_year"
 name = "extension-for-form-460"
+organization_name = "Code for San Jose"
 topics = [
   "automates",
   "campaign-finance",
@@ -11,3 +10,50 @@ topics = [
   "open-disclosure",
   "tools"
 ]
+
+[github]
+archived = false
+created_at = "2018-05-27T02:23:30Z"
+default_branch = "master"
+description = "A Chrome extension that you can use to download Form 460 from the City of San Jose's website"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/extension-for-form-460"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 135_009_290
+language = "JavaScript"
+license = { }
+name = "extension-for-form-460"
+node_id = "MDEwOlJlcG9zaXRvcnkxMzUwMDkyOTA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [
+  "automates",
+  "campaign-finance",
+  "helper",
+  "open-disclosure",
+  "tools"
+]
+updated_within = "year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

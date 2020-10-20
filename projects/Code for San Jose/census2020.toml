@@ -1,8 +1,53 @@
 code_url = "https://github.com/codeforsanjose/census2020"
 description = "Website to inform community members about the Census 2020"
-git_branch = "staging"
 git_url = "git://github.com/codeforsanjose/census2020.git"
-last_pushed_within = "year"
 link_url = "https://sjcensus.com/"
 name = "census2020"
+organization_name = "Code for San Jose"
 topics = [ "census", "census-2020", "react", "san-jose", "website" ]
+
+[github]
+archived = false
+created_at = "2019-05-10T03:59:53Z"
+default_branch = "staging"
+description = "Website to inform community members about the Census 2020"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/census2020"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://sjcensus.com/"
+id = 185_916_100
+language = "JavaScript"
+name = "census2020"
+node_id = "MDEwOlJlcG9zaXRvcnkxODU5MTYxMDA="
+open_issues_within = 100
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ "census", "census-2020", "react", "san-jose", "website" ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

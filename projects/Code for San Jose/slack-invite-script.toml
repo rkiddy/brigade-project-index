@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/slack-invite-script"
 description = "Google Apps Script invite script for sheets"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/slack-invite-script.git"
-last_pushed_within = "over_a_year"
 name = "slack-invite-script"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2015-09-30T01:31:20Z"
+default_branch = "master"
+description = "Google Apps Script invite script for sheets"
+disabled = false
+fork = true
+forks_within = 0
+full_name = "codeforsanjose/slack-invite-script"
+has_downloads = true
+has_issues = false
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 43_404_621
+language = "JavaScript"
+name = "slack-invite-script"
+node_id = "MDEwOlJlcG9zaXRvcnk0MzQwNDYyMQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

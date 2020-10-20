@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforsanjose/csj-open-data-policy"
 description = "City of San Jose's Open Data Policy"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/csj-open-data-policy.git"
-last_pushed_within = "over_a_year"
 name = "csj-open-data-policy"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2015-11-20T20:58:32Z"
+default_branch = "master"
+description = "City of San Jose's Open Data Policy"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/csj-open-data-policy"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 46_586_444
+language = { }
+license = { }
+name = "csj-open-data-policy"
+node_id = "MDEwOlJlcG9zaXRvcnk0NjU4NjQ0NA=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

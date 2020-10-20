@@ -1,10 +1,9 @@
 code_url = "https://github.com/codeforsanjose/renters-rights"
 description = "Partnering with Stanford Legal Design Lab students on tools to help tenants facing eviction"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/renters-rights.git"
-last_pushed_within = "week"
 link_url = "https://rentersrightsguide.org"
 name = "renters-rights"
+organization_name = "Code for San Jose"
 topics = [
   "civic-tech",
   "housing",
@@ -15,3 +14,58 @@ topics = [
   "renters",
   "san-jose"
 ]
+
+[github]
+archived = false
+created_at = "2017-07-10T23:35:50Z"
+default_branch = "master"
+description = "Partnering with Stanford Legal Design Lab students on tools to help tenants facing eviction"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/renters-rights"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = "https://rentersrightsguide.org"
+id = 96_830_433
+language = "JavaScript"
+name = "renters-rights"
+node_id = "MDEwOlJlcG9zaXRvcnk5NjgzMDQzMw=="
+open_issues_within = 10
+private = false
+pushed_within = "week"
+stargazers_within = 100
+topics = [
+  "civic-tech",
+  "housing",
+  "housing-policy",
+  "rails",
+  "react",
+  "react-on-rails",
+  "renters",
+  "san-jose"
+]
+updated_within = "year"
+watchers_within = 100
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

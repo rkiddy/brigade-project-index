@@ -1,7 +1,52 @@
 code_url = "https://github.com/codeforsanjose/dashboards"
 description = "Tell stories with San Jose's open data"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/dashboards.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codeforsanjose.github.io/dashboards/"
 name = "dashboards"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2016-03-08T02:42:33Z"
+default_branch = "master"
+description = "Tell stories with San Jose's open data"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/dashboards"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codeforsanjose.github.io/dashboards/"
+id = 53_376_576
+language = "JavaScript"
+name = "dashboards"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzM3NjU3Ng=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

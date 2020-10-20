@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/smelly-cat"
 description = "Better searching and visualizing of the Trash Pickup Days data across San Jose"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/smelly-cat.git"
-last_pushed_within = "over_a_year"
 name = "smelly-cat"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2016-03-06T00:00:09Z"
+default_branch = "master"
+description = "Better searching and visualizing of the Trash Pickup Days data across San Jose"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/smelly-cat"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 53_229_252
+language = "JavaScript"
+name = "smelly-cat"
+node_id = "MDEwOlJlcG9zaXRvcnk1MzIyOTI1Mg=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

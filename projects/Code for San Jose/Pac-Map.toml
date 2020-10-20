@@ -1,6 +1,51 @@
 code_url = "https://github.com/codeforsanjose/Pac-Map"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/Pac-Map.git"
-last_pushed_within = "over_a_year"
 name = "Pac-Map"
+organization_name = "Code for San Jose"
 topics = [ "android", "inactive" ]
+
+[github]
+archived = false
+created_at = "2018-03-12T05:06:20Z"
+default_branch = "master"
+description = { }
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforsanjose/Pac-Map"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 124_836_230
+language = "Kotlin"
+name = "Pac-Map"
+node_id = "MDEwOlJlcG9zaXRvcnkxMjQ4MzYyMzA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ "android", "inactive" ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

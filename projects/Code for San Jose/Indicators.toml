@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforsanjose/Indicators"
 description = "Using Pandas Python to Parse Census Data"
-git_branch = "master"
 git_url = "git://github.com/codeforsanjose/Indicators.git"
-last_pushed_within = "year"
 name = "Indicators"
+organization_name = "Code for San Jose"
+
+[github]
+archived = false
+created_at = "2017-06-09T01:36:58Z"
+default_branch = "master"
+description = "Using Pandas Python to Parse Census Data"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codeforsanjose/Indicators"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 93_806_818
+language = "Python"
+license = { }
+name = "Indicators"
+node_id = "MDEwOlJlcG9zaXRvcnk5MzgwNjgxOA=="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_627_417
+  login = "codeforsanjose"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjY2Mjc0MTc="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
