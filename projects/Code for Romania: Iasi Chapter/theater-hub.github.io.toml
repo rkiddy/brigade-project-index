@@ -1,6 +1,51 @@
 code_url = "https://github.com/code4romania/theater-hub.github.io"
 description = "Theater Hub landing page"
-git_branch = "master"
 git_url = "git://github.com/code4romania/theater-hub.github.io.git"
-last_pushed_within = "over_a_year"
 name = "theater-hub.github.io"
+organization_name = "Code for Romania: Iasi Chapter"
+
+[github]
+archived = false
+created_at = "2017-05-03T14:18:30Z"
+default_branch = "master"
+description = "Theater Hub landing page"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "code4romania/theater-hub.github.io"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 90_157_139
+language = "JavaScript"
+name = "theater-hub.github.io"
+node_id = "MDEwOlJlcG9zaXRvcnk5MDE1NzEzOQ=="
+open_issues_within = 0
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "year"
+watchers_within = 10
+
+  [github.license]
+  key = "mpl-2.0"
+  name = "Mozilla Public License 2.0"
+  node_id = "MDc6TGljZW5zZTE0"
+  spdx_id = "MPL-2.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 18_010_308
+  login = "code4romania"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjE4MDEwMzA4"
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
