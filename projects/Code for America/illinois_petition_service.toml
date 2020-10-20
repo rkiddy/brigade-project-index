@@ -1,6 +1,46 @@
 code_url = "https://github.com/codeforamerica/illinois_petition_service"
 description = "Tool for CGLA expungement petitions"
-git_branch = "master"
 git_url = "git://github.com/codeforamerica/illinois_petition_service.git"
-last_pushed_within = "week"
 name = "illinois_petition_service"
+organization_name = "Code for America"
+
+[github]
+archived = false
+created_at = "2020-02-29T00:15:29Z"
+default_branch = "master"
+description = "Tool for CGLA expungement petitions"
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codeforamerica/illinois_petition_service"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 243_877_317
+language = "Ruby"
+license = { }
+name = "illinois_petition_service"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDM4NzczMTc="
+open_issues_within = 0
+private = false
+pushed_within = "week"
+stargazers_within = 0
+topics = [ ]
+updated_within = "week"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 337_792
+  login = "codeforamerica"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjMzNzc5Mg=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
