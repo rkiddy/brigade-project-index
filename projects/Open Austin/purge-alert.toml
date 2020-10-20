@@ -1,6 +1,51 @@
 code_url = "https://github.com/open-austin/purge-alert"
 description = "browser extension for monitoring voter registration status"
-git_branch = "master"
 git_url = "git://github.com/open-austin/purge-alert.git"
-last_pushed_within = "year"
 name = "purge-alert"
+organization_name = "Open Austin"
+
+[github]
+archived = false
+created_at = "2020-01-13T23:54:35Z"
+default_branch = "master"
+description = "browser extension for monitoring voter registration status"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "open-austin/purge-alert"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 233_717_876
+language = "JavaScript"
+name = "purge-alert"
+node_id = "MDEwOlJlcG9zaXRvcnkyMzM3MTc4NzY="
+open_issues_within = 10
+private = false
+pushed_within = "year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 970_084
+  login = "open-austin"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjk3MDA4NA=="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
