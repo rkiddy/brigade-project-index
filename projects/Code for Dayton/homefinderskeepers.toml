@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordayton/homefinderskeepers"
 description = "A generic solution for displaying homes and properties"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/homefinderskeepers.git"
-last_pushed_within = "over_a_year"
 name = "homefinderskeepers"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2015-12-07T23:52:58Z"
+default_branch = "master"
+description = "A generic solution for displaying homes and properties"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/homefinderskeepers"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 47_586_741
+language = "CSS"
+name = "homefinderskeepers"
+node_id = "MDEwOlJlcG9zaXRvcnk0NzU4Njc0MQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

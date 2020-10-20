@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordayton/github-intro-exercises"
 description = "Exercises for Github intro workshop at Dayton's National Day of Civic Hacking"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/github-intro-exercises.git"
-last_pushed_within = "over_a_year"
 name = "github-intro-exercises"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2015-06-05T23:41:25Z"
+default_branch = "master"
+description = "Exercises for Github intro workshop at Dayton's National Day of Civic Hacking"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/github-intro-exercises"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 36_960_605
+language = { }
+name = "github-intro-exercises"
+node_id = "MDEwOlJlcG9zaXRvcnkzNjk2MDYwNQ=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.license]
+  key = "cc0-1.0"
+  name = "Creative Commons Zero v1.0 Universal"
+  node_id = "MDc6TGljZW5zZTY="
+  spdx_id = "CC0-1.0"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

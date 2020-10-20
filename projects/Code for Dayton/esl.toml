@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordayton/esl"
 description = "A one-page web application to support discovering English As A Second Language (ESL) classes"
-git_branch = "gh-pages"
 git_url = "git://github.com/codefordayton/esl.git"
-last_pushed_within = "over_a_year"
 link_url = "http://codefordayton.org/esl"
 name = "esl"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2014-02-05T06:59:05Z"
+default_branch = "gh-pages"
+description = "A one-page web application to support discovering English As A Second Language (ESL) classes"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/esl"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = true
+homepage = "http://codefordayton.org/esl"
+id = 16_537_560
+language = "JavaScript"
+name = "esl"
+node_id = "MDEwOlJlcG9zaXRvcnkxNjUzNzU2MA=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "bsd-3-clause"
+  name = 'BSD 3-Clause "New" or "Revised" License'
+  node_id = "MDc6TGljZW5zZTU="
+  spdx_id = "BSD-3-Clause"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

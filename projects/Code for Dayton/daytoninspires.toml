@@ -1,6 +1,51 @@
 code_url = "https://github.com/codefordayton/daytoninspires"
 description = "(Inactive) Files for the Dayton Inspires project."
-git_branch = "master"
 git_url = "git://github.com/codefordayton/daytoninspires.git"
-last_pushed_within = "over_a_year"
 name = "daytoninspires"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2014-10-03T12:43:41Z"
+default_branch = "master"
+description = "(Inactive) Files for the Dayton Inspires project."
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/daytoninspires"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = ""
+id = 24_757_995
+language = "JavaScript"
+name = "daytoninspires"
+node_id = "MDEwOlJlcG9zaXRvcnkyNDc1Nzk5NQ=="
+open_issues_within = 100
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.license]
+  key = "mit"
+  name = "MIT License"
+  node_id = "MDc6TGljZW5zZTEz"
+  spdx_id = "MIT"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

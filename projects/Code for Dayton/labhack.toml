@@ -1,7 +1,52 @@
 code_url = "https://github.com/codefordayton/labhack"
 description = "The Air Force Hackathon website"
-git_branch = "master"
 git_url = "git://github.com/codefordayton/labhack.git"
-last_pushed_within = "month"
 link_url = "http://www.labhack.org"
 name = "labhack"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2014-07-29T01:38:38Z"
+default_branch = "master"
+description = "The Air Force Hackathon website"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/labhack"
+has_downloads = true
+has_issues = true
+has_pages = true
+has_projects = true
+has_wiki = false
+homepage = "http://www.labhack.org"
+id = 22_363_862
+language = "SCSS"
+name = "labhack"
+node_id = "MDEwOlJlcG9zaXRvcnkyMjM2Mzg2Mg=="
+open_issues_within = 10
+private = false
+pushed_within = "month"
+stargazers_within = 10
+topics = [ ]
+updated_within = "month"
+watchers_within = 10
+
+  [github.license]
+  key = "other"
+  name = "Other"
+  node_id = "MDc6TGljZW5zZTA="
+  spdx_id = "NOASSERTION"
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/friendly-requests"
 description = "A repo for work coming out of the Digital Citizenship Workshop"
-git_branch = "develop"
 git_url = "git://github.com/codefordayton/friendly-requests.git"
-last_pushed_within = "over_a_year"
 name = "friendly-requests"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2017-09-22T00:39:25Z"
+default_branch = "develop"
+description = "A repo for work coming out of the Digital Citizenship Workshop"
+disabled = false
+fork = false
+forks_within = 10
+full_name = "codefordayton/friendly-requests"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 104_412_970
+language = "JavaScript"
+license = { }
+name = "friendly-requests"
+node_id = "MDEwOlJlcG9zaXRvcnkxMDQ0MTI5NzA="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 10
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 10
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false

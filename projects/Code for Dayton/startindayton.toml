@@ -1,6 +1,46 @@
 code_url = "https://github.com/codefordayton/startindayton"
 description = "CfD's Startup in a Day project."
-git_branch = "master"
 git_url = "git://github.com/codefordayton/startindayton.git"
-last_pushed_within = "over_a_year"
 name = "startindayton"
+organization_name = "Code for Dayton"
+
+[github]
+archived = false
+created_at = "2015-09-01T01:28:35Z"
+default_branch = "master"
+description = "CfD's Startup in a Day project."
+disabled = false
+fork = false
+forks_within = 0
+full_name = "codefordayton/startindayton"
+has_downloads = true
+has_issues = true
+has_pages = false
+has_projects = true
+has_wiki = true
+homepage = { }
+id = 41_709_823
+language = "CSS"
+license = { }
+name = "startindayton"
+node_id = "MDEwOlJlcG9zaXRvcnk0MTcwOTgyMw=="
+open_issues_within = 10
+private = false
+pushed_within = "over_a_year"
+stargazers_within = 0
+topics = [ ]
+updated_within = "over_a_year"
+watchers_within = 0
+
+  [github.owner]
+  gravatar_id = ""
+  id = 6_026_408
+  login = "codefordayton"
+  node_id = "MDEyOk9yZ2FuaXphdGlvbjYwMjY0MDg="
+  site_admin = false
+  type = "Organization"
+
+  [github.permissions]
+  admin = false
+  pull = true
+  push = false
